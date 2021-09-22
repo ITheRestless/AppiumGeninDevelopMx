@@ -13,6 +13,9 @@ Este es un repositorio con una plantilla lista para correr pruebas automatizadas
 Como correr las pruebas:
 
   1 - iniciar appium desktop con tu emulador encendido o tu dispositivo conectado en modo depuracion USB
+  
   2 - Configurar la ip del servidor como 127.0.0.1
+  
   3 - Seleccionar el puerto de red 4723
+  
   4 - Click derecho en el nombre de tu prueba en visual studio y selecciona "Ejecutar prueba"
