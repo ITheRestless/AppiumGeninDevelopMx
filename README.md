@@ -9,6 +9,11 @@ Este es un repositorio con una plantilla lista para correr pruebas automatizadas
   - Variable ANDROID_SDK_ROOT
   - Apk de la aplicacion a probar en el directorio de archivos
   
+Este repositorio contiene:
+
+  - Proyecto "TestingToolsDevelopMx" el cual contiene una clase con los metodos y variables necesarios para correr las pruebas en android
+  - Pryecto "Ejemplo" con una clase "Prueba" que sirve a modo de plantilla para realizar tu primera prueba automatizada
+  - Dependencias "Appium", "SeleniumWaitHelpers" y "RestSharp" instalables desde NuGetManager
   
 Como correr las pruebas:
 
