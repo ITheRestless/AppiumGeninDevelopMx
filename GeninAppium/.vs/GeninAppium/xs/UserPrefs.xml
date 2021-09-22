@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{24756FB7-C588-46CF-A3F1-AE53F6D361AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestingToolsDevelopMx FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ejemplo FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejemplo/Prueba.cs">
+    <Files>
+      <File FileName="TestingToolsDevelopMx/UnitTest1.cs" Line="5" Column="34" />
+      <File FileName="Ejemplo/UnitTest1.cs" Line="14" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GeninAppium" expanded="True">
+            <Node name="Ejemplo" expanded="True">
+              <Node name="Prueba.cs" selected="True" />
+            </Node>
+            <Node name="TestingToolsDevelopMx" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GeninAppium" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
